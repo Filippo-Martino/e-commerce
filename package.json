@@ -1,7 +1,7 @@
 {
   "name": "e-commerce",
   "version": "1.0.0",
-  "description": "",
+  "description": "ecommerce di abbigliamento femminile",
   "main": "main.js)\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cun sito di ecommerce abbigliamento femminile\u001b[D\u001b[B\u001b[B\u001b[D",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Filippo-Martino/e-commerce/issues"
   },
-  "homepage": "https://github.com/Filippo-Martino/e-commerce#readme"
+  "homepage": "https://github.com/Filippo-Martino/e-commerce#readme",
+  "dependencies": {
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {}
 }
